@@ -1,2 +1,2 @@
-# Practice.Py
+# Practice Python
 Self Study for practice Python.
