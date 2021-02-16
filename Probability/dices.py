@@ -1,4 +1,4 @@
-import rando
+import random
 
 def tirar_dado(numero_de_tiros):
     secuencia_de_tiros = []
